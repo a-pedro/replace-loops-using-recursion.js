@@ -8,3 +8,4 @@ if (n <= 0){
 } 
   // Only change code above this line
 }
+console.log(sum([2, 3, 4,], 1));
